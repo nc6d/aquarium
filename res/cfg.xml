@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parameters>
+    <parameter width="15"/>
+    <parameter heigth="15"/>
+    <parameter stonesNumber="6"/>
+    <parameter herbsNumber="8"/>
+    <parameter childrenMaxNumber="1"/>
+    <parameter feedScores="4"/>
+    <parameter herbFishesNumber="10"/>
+    <parameter predatorFishesNumber="5"/>
+    <parameter ageMax="20"/>
+    <parameter ageBeginMature="8"/>
+    <parameter pregnancyTerm="5"/>
+    <parameter ageBeginOld="16"/>
+    <parameter hungerMaxLevel="30"/>
+
+</parameters>

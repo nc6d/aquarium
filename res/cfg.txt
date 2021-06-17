@@ -1,0 +1,13 @@
+width=15
+height=15
+num_of_stones=6
+num_of_weed=8
+num_of_fishWeedEnjoyer=10
+num_of_fishPredator=4
+fish_maxAge=20
+fish_maxHunger=10
+weed_maxHungerBonus=4
+fish_matureStartAge=8
+fish_oldStartAge=16
+fish_pregnancyLength=5
+fish_amountOfChildren=1
